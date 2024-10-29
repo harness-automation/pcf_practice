@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_MUphvj
+  projectIdentifier: TestDataSourceRemoteEnvironment_MUphvj
+  identifier: TestDataSourceRemoteEnvironment_MUphvj
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_MUphvj
+  type: PreProduction
