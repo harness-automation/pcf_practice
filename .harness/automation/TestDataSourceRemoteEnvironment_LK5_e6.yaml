@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_LK5_e6
+  projectIdentifier: TestDataSourceRemoteEnvironment_LK5_e6
+  identifier: TestDataSourceRemoteEnvironment_LK5_e6
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_LK5_e6
+  type: PreProduction
