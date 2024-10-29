@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Xzrc9a
+  projectIdentifier: TestDataSourceRemoteEnvironment_Xzrc9a
+  identifier: TestDataSourceRemoteEnvironment_Xzrc9a
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Xzrc9a
+  type: PreProduction
