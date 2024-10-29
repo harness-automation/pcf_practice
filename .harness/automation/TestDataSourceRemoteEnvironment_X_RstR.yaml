@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_X_RstR
+  projectIdentifier: TestDataSourceRemoteEnvironment_X_RstR
+  identifier: TestDataSourceRemoteEnvironment_X_RstR
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_X_RstR
+  type: PreProduction
