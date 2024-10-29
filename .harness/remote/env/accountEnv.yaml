@@ -1,5 +1,5 @@
 environment:
-  name: accountEnv
-  identifier: accountEnv
+  name: RemoteaccountEnv
+  identifier: RemoteaccountEnv
   tags: {}
   type: PreProduction
