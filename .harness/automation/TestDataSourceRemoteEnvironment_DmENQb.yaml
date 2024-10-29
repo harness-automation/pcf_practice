@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_DmENQb
+  projectIdentifier: TestDataSourceRemoteEnvironment_DmENQb
+  identifier: TestDataSourceRemoteEnvironment_DmENQb
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_DmENQb
+  type: PreProduction
