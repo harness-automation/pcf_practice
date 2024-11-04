@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_CKaV9N
+  projectIdentifier: TestDataSourceRemoteEnvironment_CKaV9N
+  identifier: TestDataSourceRemoteEnvironment_CKaV9N
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_CKaV9N
+  type: PreProduction
