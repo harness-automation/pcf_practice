@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_trrHvL
+  projectIdentifier: TestDataSourceRemoteEnvironment_trrHvL
+  identifier: TestDataSourceRemoteEnvironment_trrHvL
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_trrHvL
+  type: PreProduction
