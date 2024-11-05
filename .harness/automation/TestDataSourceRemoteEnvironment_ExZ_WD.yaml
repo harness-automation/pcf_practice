@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ExZ_WD
+  projectIdentifier: TestDataSourceRemoteEnvironment_ExZ_WD
+  identifier: TestDataSourceRemoteEnvironment_ExZ_WD
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ExZ_WD
+  type: PreProduction
