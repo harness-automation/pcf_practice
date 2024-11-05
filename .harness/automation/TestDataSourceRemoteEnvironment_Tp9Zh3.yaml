@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Tp9Zh3
+  projectIdentifier: TestDataSourceRemoteEnvironment_Tp9Zh3
+  identifier: TestDataSourceRemoteEnvironment_Tp9Zh3
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Tp9Zh3
+  type: PreProduction
