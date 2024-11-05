@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_euWwC3
+  projectIdentifier: TestDataSourceRemoteEnvironment_euWwC3
+  identifier: TestDataSourceRemoteEnvironment_euWwC3
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_euWwC3
+  type: PreProduction
