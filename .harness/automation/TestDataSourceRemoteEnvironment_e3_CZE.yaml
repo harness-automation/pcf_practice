@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_e3_CZE
+  projectIdentifier: TestDataSourceRemoteEnvironment_e3_CZE
+  identifier: TestDataSourceRemoteEnvironment_e3_CZE
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_e3_CZE
+  type: PreProduction
