@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_FC63ls
+  projectIdentifier: TestDataSourceRemoteEnvironment_FC63ls
+  identifier: TestDataSourceRemoteEnvironment_FC63ls
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_FC63ls
+  type: PreProduction
