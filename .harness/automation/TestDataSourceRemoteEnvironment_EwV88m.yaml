@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EwV88m
+  projectIdentifier: TestDataSourceRemoteEnvironment_EwV88m
+  identifier: TestDataSourceRemoteEnvironment_EwV88m
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EwV88m
+  type: PreProduction
