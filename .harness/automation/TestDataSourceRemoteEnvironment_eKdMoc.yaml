@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eKdMoc
+  projectIdentifier: TestDataSourceRemoteEnvironment_eKdMoc
+  identifier: TestDataSourceRemoteEnvironment_eKdMoc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eKdMoc
+  type: PreProduction
