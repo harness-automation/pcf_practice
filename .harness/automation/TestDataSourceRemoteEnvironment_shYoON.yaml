@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_shYoON
+  projectIdentifier: TestDataSourceRemoteEnvironment_shYoON
+  identifier: TestDataSourceRemoteEnvironment_shYoON
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_shYoON
+  type: PreProduction
