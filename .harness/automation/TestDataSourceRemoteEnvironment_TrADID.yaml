@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TrADID
+  projectIdentifier: TestDataSourceRemoteEnvironment_TrADID
+  identifier: TestDataSourceRemoteEnvironment_TrADID
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TrADID
+  type: PreProduction
