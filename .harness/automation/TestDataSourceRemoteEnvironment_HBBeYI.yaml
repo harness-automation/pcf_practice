@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_HBBeYI
+  projectIdentifier: TestDataSourceRemoteEnvironment_HBBeYI
+  identifier: TestDataSourceRemoteEnvironment_HBBeYI
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_HBBeYI
+  type: PreProduction
