@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_XQtOSr
+  projectIdentifier: TestDataSourceRemoteEnvironment_XQtOSr
+  identifier: TestDataSourceRemoteEnvironment_XQtOSr
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_XQtOSr
+  type: PreProduction
