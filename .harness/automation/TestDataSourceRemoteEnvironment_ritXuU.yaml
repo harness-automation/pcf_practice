@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ritXuU
+  projectIdentifier: TestDataSourceRemoteEnvironment_ritXuU
+  identifier: TestDataSourceRemoteEnvironment_ritXuU
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ritXuU
+  type: PreProduction
