@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ViEIiA
+  projectIdentifier: TestDataSourceRemoteEnvironment_ViEIiA
+  identifier: TestDataSourceRemoteEnvironment_ViEIiA
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ViEIiA
+  type: PreProduction
