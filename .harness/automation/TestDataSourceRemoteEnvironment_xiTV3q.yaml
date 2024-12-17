@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_xiTV3q
+  projectIdentifier: TestDataSourceRemoteEnvironment_xiTV3q
+  identifier: TestDataSourceRemoteEnvironment_xiTV3q
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_xiTV3q
+  type: PreProduction
