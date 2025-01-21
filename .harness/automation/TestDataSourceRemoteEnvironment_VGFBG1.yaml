@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_VGFBG1
+  projectIdentifier: TestDataSourceRemoteEnvironment_VGFBG1
+  identifier: TestDataSourceRemoteEnvironment_VGFBG1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_VGFBG1
+  type: PreProduction
