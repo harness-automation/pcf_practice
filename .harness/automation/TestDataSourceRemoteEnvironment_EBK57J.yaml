@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EBK57J
+  projectIdentifier: TestDataSourceRemoteEnvironment_EBK57J
+  identifier: TestDataSourceRemoteEnvironment_EBK57J
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EBK57J
+  type: PreProduction
