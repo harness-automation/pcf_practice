@@ -1,0 +1,3 @@
+service:
+  name: TestDataSourceRemoteService_vNGOLB
+  identifier: TestDataSourceRemoteService_vNGOLB
