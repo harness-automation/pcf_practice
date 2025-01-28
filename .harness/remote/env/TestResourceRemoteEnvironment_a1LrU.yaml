@@ -1,0 +1,4 @@
+environment:
+  name: TestResourceRemoteEnvironment
+  identifier: TestResourceRemoteEnvironment_a1LrU
+  type: PreProduction
