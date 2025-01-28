@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_VWmJ2O
+  projectIdentifier: TestDataSourceRemoteEnvironment_VWmJ2O
+  identifier: TestDataSourceRemoteEnvironment_VWmJ2O
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_VWmJ2O
+  type: PreProduction
