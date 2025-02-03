@@ -1,0 +1,3 @@
+service:
+  name: TestDataSourceRemoteService_txDurw
+  identifier: TestDataSourceRemoteService_txDurw
