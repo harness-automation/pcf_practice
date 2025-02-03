@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_alaDQk
+  projectIdentifier: TestDataSourceRemoteEnvironment_alaDQk
+  identifier: TestDataSourceRemoteEnvironment_alaDQk
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_alaDQk
+  type: PreProduction
