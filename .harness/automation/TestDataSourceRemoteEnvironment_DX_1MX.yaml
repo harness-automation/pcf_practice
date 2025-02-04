@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_DX_1MX
+  projectIdentifier: TestDataSourceRemoteEnvironment_DX_1MX
+  identifier: TestDataSourceRemoteEnvironment_DX_1MX
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_DX_1MX
+  type: PreProduction
