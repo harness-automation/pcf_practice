@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_jvRIUP
+  projectIdentifier: TestDataSourceRemoteEnvironment_jvRIUP
+  identifier: TestDataSourceRemoteEnvironment_jvRIUP
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_jvRIUP
+  type: PreProduction
