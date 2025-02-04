@@ -1,0 +1,14 @@
+infrastructureDefinition:
+   name: "TestResourceRemoteInfrastructure"
+   identifier: "TestResourceRemoteInfrastructure__Y_QB"
+   description: ""
+   tags:
+     asda: ""
+   environmentRef: TestResourceRemoteInfrastructure__Y_QB
+   deploymentType: Kubernetes
+   type: KubernetesDirect
+   spec:
+    connectorRef: "<+input>"
+    namespace: "<+input>"
+    releaseName: "<+input>"
+   allowSimultaneousDeployments: false
