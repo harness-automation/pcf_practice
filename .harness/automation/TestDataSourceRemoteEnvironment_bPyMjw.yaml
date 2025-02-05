@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_bPyMjw
+  projectIdentifier: TestDataSourceRemoteEnvironment_bPyMjw
+  identifier: TestDataSourceRemoteEnvironment_bPyMjw
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_bPyMjw
+  type: PreProduction
