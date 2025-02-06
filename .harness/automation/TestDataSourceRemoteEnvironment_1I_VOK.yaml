@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_1I_VOK
+  projectIdentifier: TestDataSourceRemoteEnvironment_1I_VOK
+  identifier: TestDataSourceRemoteEnvironment_1I_VOK
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_1I_VOK
+  type: PreProduction
