@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TEzsew
+  projectIdentifier: TestDataSourceRemoteEnvironment_TEzsew
+  identifier: TestDataSourceRemoteEnvironment_TEzsew
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TEzsew
+  type: PreProduction
