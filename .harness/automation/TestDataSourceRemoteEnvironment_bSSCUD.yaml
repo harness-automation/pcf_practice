@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_bSSCUD
+  projectIdentifier: TestDataSourceRemoteEnvironment_bSSCUD
+  identifier: TestDataSourceRemoteEnvironment_bSSCUD
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_bSSCUD
+  type: PreProduction
