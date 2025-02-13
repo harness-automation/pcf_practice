@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_bXODOC
+  projectIdentifier: TestDataSourceRemoteEnvironment_bXODOC
+  identifier: TestDataSourceRemoteEnvironment_bXODOC
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_bXODOC
+  type: PreProduction
