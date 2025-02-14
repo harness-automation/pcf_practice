@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_nIBkaB
+  projectIdentifier: TestDataSourceRemoteEnvironment_nIBkaB
+  identifier: TestDataSourceRemoteEnvironment_nIBkaB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_nIBkaB
+  type: PreProduction
