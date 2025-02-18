@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_dLBBjm
+  projectIdentifier: TestDataSourceRemoteEnvironment_dLBBjm
+  identifier: TestDataSourceRemoteEnvironment_dLBBjm
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_dLBBjm
+  type: PreProduction
