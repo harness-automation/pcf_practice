@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_pAAnmo
+  projectIdentifier: TestDataSourceRemoteEnvironment_pAAnmo
+  identifier: TestDataSourceRemoteEnvironment_pAAnmo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_pAAnmo
+  type: PreProduction
