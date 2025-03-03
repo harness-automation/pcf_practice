@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_zOMbfp
+  projectIdentifier: TestDataSourceRemoteEnvironment_zOMbfp
+  identifier: TestDataSourceRemoteEnvironment_zOMbfp
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_zOMbfp
+  type: PreProduction
