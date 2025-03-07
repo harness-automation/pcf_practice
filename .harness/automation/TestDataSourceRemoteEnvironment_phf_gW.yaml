@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_phf_gW
+  projectIdentifier: TestDataSourceRemoteEnvironment_phf_gW
+  identifier: TestDataSourceRemoteEnvironment_phf_gW
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_phf_gW
+  type: PreProduction
