@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_FLIZfO
+  projectIdentifier: TestDataSourceRemoteEnvironment_FLIZfO
+  identifier: TestDataSourceRemoteEnvironment_FLIZfO
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_FLIZfO
+  type: PreProduction
