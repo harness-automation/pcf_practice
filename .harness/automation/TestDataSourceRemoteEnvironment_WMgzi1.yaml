@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_WMgzi1
+  projectIdentifier: TestDataSourceRemoteEnvironment_WMgzi1
+  identifier: TestDataSourceRemoteEnvironment_WMgzi1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_WMgzi1
+  type: PreProduction
