@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment__cHOna
+  projectIdentifier: TestDataSourceRemoteEnvironment__cHOna
+  identifier: TestDataSourceRemoteEnvironment__cHOna
+  tags: {}
+  name: TestDataSourceRemoteEnvironment__cHOna
+  type: PreProduction
