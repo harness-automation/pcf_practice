@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Lr_aVc
+  projectIdentifier: TestDataSourceRemoteEnvironment_Lr_aVc
+  identifier: TestDataSourceRemoteEnvironment_Lr_aVc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Lr_aVc
+  type: PreProduction
