@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_BEkAJr
+  projectIdentifier: TestDataSourceRemoteEnvironment_BEkAJr
+  identifier: TestDataSourceRemoteEnvironment_BEkAJr
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_BEkAJr
+  type: PreProduction
