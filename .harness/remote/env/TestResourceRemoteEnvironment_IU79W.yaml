@@ -1,0 +1,4 @@
+environment:
+  name: TestResourceRemoteEnvironment
+  identifier: TestResourceRemoteEnvironment_IU79W
+  type: PreProduction
