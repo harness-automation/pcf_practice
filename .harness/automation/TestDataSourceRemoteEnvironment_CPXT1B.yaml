@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_CPXT1B
+  projectIdentifier: TestDataSourceRemoteEnvironment_CPXT1B
+  identifier: TestDataSourceRemoteEnvironment_CPXT1B
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_CPXT1B
+  type: PreProduction
