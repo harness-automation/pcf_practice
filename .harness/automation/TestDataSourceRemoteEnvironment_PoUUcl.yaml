@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PoUUcl
+  projectIdentifier: TestDataSourceRemoteEnvironment_PoUUcl
+  identifier: TestDataSourceRemoteEnvironment_PoUUcl
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PoUUcl
+  type: PreProduction
