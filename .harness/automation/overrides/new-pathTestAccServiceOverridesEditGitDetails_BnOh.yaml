@@ -2,7 +2,7 @@ overrides:
   variables:
     - name: v1
       type: String
-      value: val1_for_new-pathTestAccServiceOverridesEditGitDetails_BnOh
+      value: val1_for_updated-pathTestAccServiceOverridesEditGitDetails_BnOh
       required: false
   manifests:
     - manifest:
@@ -16,7 +16,7 @@ overrides:
               branch: master
               commitId: null
               paths:
-                - files1_new-pathTestAccServiceOverridesEditGitDetails_BnOh
+                - files1_updated-pathTestAccServiceOverridesEditGitDetails_BnOh
               folderPath: null
               repoName: <+input>
             type: Github
@@ -28,6 +28,6 @@ overrides:
           store:
             spec:
               files:
-                - <+org.description>_new-pathTestAccServiceOverridesEditGitDetails_BnOh
+                - <+org.description>_updated-pathTestAccServiceOverridesEditGitDetails_BnOh
               secretFiles: null
             type: Harness
