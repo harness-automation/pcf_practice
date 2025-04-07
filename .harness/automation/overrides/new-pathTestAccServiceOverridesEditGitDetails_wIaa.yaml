@@ -2,7 +2,7 @@ overrides:
   variables:
     - name: v1
       type: String
-      value: val1_for_new-pathTestAccServiceOverridesEditGitDetails_wIaa
+      value: val1_for_initial-pathTestAccServiceOverridesEditGitDetails_wIaa
       required: false
   manifests:
     - manifest:
@@ -16,7 +16,7 @@ overrides:
               branch: master
               commitId: null
               paths:
-                - files1_new-pathTestAccServiceOverridesEditGitDetails_wIaa
+                - files1_initial-pathTestAccServiceOverridesEditGitDetails_wIaa
               folderPath: null
               repoName: <+input>
             type: Github
@@ -28,6 +28,6 @@ overrides:
           store:
             spec:
               files:
-                - <+org.description>_new-pathTestAccServiceOverridesEditGitDetails_wIaa
+                - <+org.description>_initial-pathTestAccServiceOverridesEditGitDetails_wIaa
               secretFiles: null
             type: Harness
