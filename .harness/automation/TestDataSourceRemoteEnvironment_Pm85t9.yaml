@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Pm85t9
+  projectIdentifier: TestDataSourceRemoteEnvironment_Pm85t9
+  identifier: TestDataSourceRemoteEnvironment_Pm85t9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Pm85t9
+  type: PreProduction
