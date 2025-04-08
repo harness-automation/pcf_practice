@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Odd9Ft
+  projectIdentifier: TestDataSourceRemoteEnvironment_Odd9Ft
+  identifier: TestDataSourceRemoteEnvironment_Odd9Ft
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Odd9Ft
+  type: PreProduction
