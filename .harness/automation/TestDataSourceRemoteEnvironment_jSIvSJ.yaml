@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_jSIvSJ
+  projectIdentifier: TestDataSourceRemoteEnvironment_jSIvSJ
+  identifier: TestDataSourceRemoteEnvironment_jSIvSJ
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_jSIvSJ
+  type: PreProduction
