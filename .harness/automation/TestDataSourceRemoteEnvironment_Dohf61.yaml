@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Dohf61
+  projectIdentifier: TestDataSourceRemoteEnvironment_Dohf61
+  identifier: TestDataSourceRemoteEnvironment_Dohf61
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Dohf61
+  type: PreProduction
