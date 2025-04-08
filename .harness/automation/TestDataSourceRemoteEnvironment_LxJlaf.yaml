@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_LxJlaf
+  projectIdentifier: TestDataSourceRemoteEnvironment_LxJlaf
+  identifier: TestDataSourceRemoteEnvironment_LxJlaf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_LxJlaf
+  type: PreProduction
