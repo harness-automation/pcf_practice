@@ -1,0 +1,3 @@
+service:
+  name: TestDataSourceRemoteService_LceInA
+  identifier: TestDataSourceRemoteService_LceInA
