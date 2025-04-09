@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_wxru_5
+  projectIdentifier: TestDataSourceRemoteEnvironment_wxru_5
+  identifier: TestDataSourceRemoteEnvironment_wxru_5
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_wxru_5
+  type: PreProduction
