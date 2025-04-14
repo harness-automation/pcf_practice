@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_HV79P8
+  projectIdentifier: TestDataSourceRemoteEnvironment_HV79P8
+  identifier: TestDataSourceRemoteEnvironment_HV79P8
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_HV79P8
+  type: PreProduction
