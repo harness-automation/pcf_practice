@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_erBog4
+  projectIdentifier: TestDataSourceRemoteEnvironment_erBog4
+  identifier: TestDataSourceRemoteEnvironment_erBog4
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_erBog4
+  type: PreProduction
