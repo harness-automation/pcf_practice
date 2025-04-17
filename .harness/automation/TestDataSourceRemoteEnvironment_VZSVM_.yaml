@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_VZSVM_
+  projectIdentifier: TestDataSourceRemoteEnvironment_VZSVM_
+  identifier: TestDataSourceRemoteEnvironment_VZSVM_
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_VZSVM_
+  type: PreProduction
