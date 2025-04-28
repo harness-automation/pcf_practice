@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_C2PEEo
+  projectIdentifier: TestDataSourceRemoteEnvironment_C2PEEo
+  identifier: TestDataSourceRemoteEnvironment_C2PEEo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_C2PEEo
+  type: PreProduction
