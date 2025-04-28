@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_H2lmyB
+  projectIdentifier: TestDataSourceRemoteEnvironment_H2lmyB
+  identifier: TestDataSourceRemoteEnvironment_H2lmyB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_H2lmyB
+  type: PreProduction
