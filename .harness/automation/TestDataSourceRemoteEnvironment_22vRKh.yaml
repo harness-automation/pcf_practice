@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_22vRKh
+  projectIdentifier: TestDataSourceRemoteEnvironment_22vRKh
+  identifier: TestDataSourceRemoteEnvironment_22vRKh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_22vRKh
+  type: PreProduction
