@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment__616VN
+  projectIdentifier: TestDataSourceRemoteEnvironment__616VN
+  identifier: TestDataSourceRemoteEnvironment__616VN
+  tags: {}
+  name: TestDataSourceRemoteEnvironment__616VN
+  type: PreProduction
