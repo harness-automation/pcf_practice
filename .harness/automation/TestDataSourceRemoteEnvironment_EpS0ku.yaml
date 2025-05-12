@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EpS0ku
+  projectIdentifier: TestDataSourceRemoteEnvironment_EpS0ku
+  identifier: TestDataSourceRemoteEnvironment_EpS0ku
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EpS0ku
+  type: PreProduction
