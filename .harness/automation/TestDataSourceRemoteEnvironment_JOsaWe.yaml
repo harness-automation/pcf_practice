@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JOsaWe
+  projectIdentifier: TestDataSourceRemoteEnvironment_JOsaWe
+  identifier: TestDataSourceRemoteEnvironment_JOsaWe
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JOsaWe
+  type: PreProduction
