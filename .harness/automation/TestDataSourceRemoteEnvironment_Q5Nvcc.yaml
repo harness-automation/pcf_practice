@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Q5Nvcc
+  projectIdentifier: TestDataSourceRemoteEnvironment_Q5Nvcc
+  identifier: TestDataSourceRemoteEnvironment_Q5Nvcc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Q5Nvcc
+  type: PreProduction
