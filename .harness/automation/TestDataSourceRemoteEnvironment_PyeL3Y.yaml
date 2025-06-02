@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PyeL3Y
+  projectIdentifier: TestDataSourceRemoteEnvironment_PyeL3Y
+  identifier: TestDataSourceRemoteEnvironment_PyeL3Y
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PyeL3Y
+  type: PreProduction
