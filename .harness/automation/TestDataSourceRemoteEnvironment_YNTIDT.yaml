@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_YNTIDT
+  projectIdentifier: TestDataSourceRemoteEnvironment_YNTIDT
+  identifier: TestDataSourceRemoteEnvironment_YNTIDT
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_YNTIDT
+  type: PreProduction
