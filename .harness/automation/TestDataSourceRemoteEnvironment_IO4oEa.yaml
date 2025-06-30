@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_IO4oEa
+  projectIdentifier: TestDataSourceRemoteEnvironment_IO4oEa
+  identifier: TestDataSourceRemoteEnvironment_IO4oEa
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_IO4oEa
+  type: PreProduction
