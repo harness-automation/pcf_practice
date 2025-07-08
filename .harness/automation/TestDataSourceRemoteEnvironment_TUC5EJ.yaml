@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TUC5EJ
+  projectIdentifier: TestDataSourceRemoteEnvironment_TUC5EJ
+  identifier: TestDataSourceRemoteEnvironment_TUC5EJ
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TUC5EJ
+  type: PreProduction
