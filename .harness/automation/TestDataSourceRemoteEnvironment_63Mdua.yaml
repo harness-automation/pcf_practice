@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_63Mdua
+  projectIdentifier: TestDataSourceRemoteEnvironment_63Mdua
+  identifier: TestDataSourceRemoteEnvironment_63Mdua
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_63Mdua
+  type: PreProduction
