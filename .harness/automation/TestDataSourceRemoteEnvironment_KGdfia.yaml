@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_KGdfia
+  projectIdentifier: TestDataSourceRemoteEnvironment_KGdfia
+  identifier: TestDataSourceRemoteEnvironment_KGdfia
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_KGdfia
+  type: PreProduction
