@@ -1,0 +1,13 @@
+infrastructureDefinition:
+   name: "TestDataSourceRemoteInfrastrucutre_boj2pm"
+   identifier: "TestDataSourceRemoteInfrastrucutre_boj2pm"
+   description: ""
+   tags:
+     asda: ""
+   environmentRef: TestDataSourceRemoteInfrastrucutre_boj2pm
+   deploymentType: Kubernetes
+   type: KubernetesDirect
+   spec:
+    connectorRef: "<+input>"
+    namespace: "<+input>"
+    releaseName: "<+input>"
