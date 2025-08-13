@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_DXBDR2
+  projectIdentifier: TestDataSourceRemoteEnvironment_DXBDR2
+  identifier: TestDataSourceRemoteEnvironment_DXBDR2
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_DXBDR2
+  type: PreProduction
