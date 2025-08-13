@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ksLskj
+  projectIdentifier: TestDataSourceRemoteEnvironment_ksLskj
+  identifier: TestDataSourceRemoteEnvironment_ksLskj
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ksLskj
+  type: PreProduction
