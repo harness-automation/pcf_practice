@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_g5_jEf
+  projectIdentifier: TestDataSourceRemoteEnvironment_g5_jEf
+  identifier: TestDataSourceRemoteEnvironment_g5_jEf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_g5_jEf
+  type: PreProduction
