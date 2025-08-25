@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_KiatFo
+  projectIdentifier: TestDataSourceRemoteEnvironment_KiatFo
+  identifier: TestDataSourceRemoteEnvironment_KiatFo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_KiatFo
+  type: PreProduction
