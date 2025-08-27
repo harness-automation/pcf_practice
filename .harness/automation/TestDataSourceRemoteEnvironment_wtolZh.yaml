@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_wtolZh
+  projectIdentifier: TestDataSourceRemoteEnvironment_wtolZh
+  identifier: TestDataSourceRemoteEnvironment_wtolZh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_wtolZh
+  type: PreProduction
