@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_XSMEPJ
+  projectIdentifier: TestDataSourceRemoteEnvironment_XSMEPJ
+  identifier: TestDataSourceRemoteEnvironment_XSMEPJ
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_XSMEPJ
+  type: PreProduction
