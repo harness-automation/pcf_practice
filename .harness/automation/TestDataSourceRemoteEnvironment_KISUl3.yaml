@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_KISUl3
+  projectIdentifier: TestDataSourceRemoteEnvironment_KISUl3
+  identifier: TestDataSourceRemoteEnvironment_KISUl3
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_KISUl3
+  type: PreProduction
