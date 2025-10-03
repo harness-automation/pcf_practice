@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_RJSYi6
+  projectIdentifier: TestDataSourceRemoteEnvironment_RJSYi6
+  identifier: TestDataSourceRemoteEnvironment_RJSYi6
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_RJSYi6
+  type: PreProduction
