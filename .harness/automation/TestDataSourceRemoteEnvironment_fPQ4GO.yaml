@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_fPQ4GO
+  projectIdentifier: TestDataSourceRemoteEnvironment_fPQ4GO
+  identifier: TestDataSourceRemoteEnvironment_fPQ4GO
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_fPQ4GO
+  type: PreProduction
