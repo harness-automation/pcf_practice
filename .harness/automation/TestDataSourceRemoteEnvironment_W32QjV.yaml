@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_W32QjV
+  projectIdentifier: TestDataSourceRemoteEnvironment_W32QjV
+  identifier: TestDataSourceRemoteEnvironment_W32QjV
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_W32QjV
+  type: PreProduction
