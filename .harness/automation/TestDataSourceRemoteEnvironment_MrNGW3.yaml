@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_MrNGW3
+  projectIdentifier: TestDataSourceRemoteEnvironment_MrNGW3
+  identifier: TestDataSourceRemoteEnvironment_MrNGW3
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_MrNGW3
+  type: PreProduction
