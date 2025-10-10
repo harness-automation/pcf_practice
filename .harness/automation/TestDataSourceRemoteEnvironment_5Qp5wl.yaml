@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_5Qp5wl
+  projectIdentifier: TestDataSourceRemoteEnvironment_5Qp5wl
+  identifier: TestDataSourceRemoteEnvironment_5Qp5wl
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_5Qp5wl
+  type: PreProduction
