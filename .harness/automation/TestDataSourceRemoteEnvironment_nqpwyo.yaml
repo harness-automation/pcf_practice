@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_nqpwyo
+  projectIdentifier: TestDataSourceRemoteEnvironment_nqpwyo
+  identifier: TestDataSourceRemoteEnvironment_nqpwyo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_nqpwyo
+  type: PreProduction
