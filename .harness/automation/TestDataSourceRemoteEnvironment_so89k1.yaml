@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_so89k1
+  projectIdentifier: TestDataSourceRemoteEnvironment_so89k1
+  identifier: TestDataSourceRemoteEnvironment_so89k1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_so89k1
+  type: PreProduction
