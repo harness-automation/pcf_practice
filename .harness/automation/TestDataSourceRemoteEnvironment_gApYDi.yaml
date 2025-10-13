@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_gApYDi
+  projectIdentifier: TestDataSourceRemoteEnvironment_gApYDi
+  identifier: TestDataSourceRemoteEnvironment_gApYDi
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_gApYDi
+  type: PreProduction
