@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_sI_iUI
+  projectIdentifier: TestDataSourceRemoteEnvironment_sI_iUI
+  identifier: TestDataSourceRemoteEnvironment_sI_iUI
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_sI_iUI
+  type: PreProduction
