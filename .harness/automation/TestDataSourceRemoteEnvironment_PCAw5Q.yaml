@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PCAw5Q
+  projectIdentifier: TestDataSourceRemoteEnvironment_PCAw5Q
+  identifier: TestDataSourceRemoteEnvironment_PCAw5Q
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PCAw5Q
+  type: PreProduction
