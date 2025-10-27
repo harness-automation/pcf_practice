@@ -1,0 +1,4 @@
+environment:
+  name: TestResourceRemoteEnvironment
+  identifier: TestResourceRemoteEnvironment_o4pqi
+  type: PreProduction
