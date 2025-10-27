@@ -1,0 +1,4 @@
+environment:
+  name: TestResourceRemoteEnvironment
+  identifier: TestResourceRemoteEnvironment_dRxA6
+  type: PreProduction
