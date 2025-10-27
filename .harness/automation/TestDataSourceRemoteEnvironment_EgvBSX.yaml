@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EgvBSX
+  projectIdentifier: TestDataSourceRemoteEnvironment_EgvBSX
+  identifier: TestDataSourceRemoteEnvironment_EgvBSX
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EgvBSX
+  type: PreProduction
