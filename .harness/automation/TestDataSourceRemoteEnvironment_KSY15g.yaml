@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_KSY15g
+  projectIdentifier: TestDataSourceRemoteEnvironment_KSY15g
+  identifier: TestDataSourceRemoteEnvironment_KSY15g
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_KSY15g
+  type: PreProduction
