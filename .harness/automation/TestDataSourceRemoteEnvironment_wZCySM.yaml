@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_wZCySM
+  projectIdentifier: TestDataSourceRemoteEnvironment_wZCySM
+  identifier: TestDataSourceRemoteEnvironment_wZCySM
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_wZCySM
+  type: PreProduction
