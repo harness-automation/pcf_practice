@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_nn_QUi
+  projectIdentifier: TestDataSourceRemoteEnvironment_nn_QUi
+  identifier: TestDataSourceRemoteEnvironment_nn_QUi
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_nn_QUi
+  type: PreProduction
