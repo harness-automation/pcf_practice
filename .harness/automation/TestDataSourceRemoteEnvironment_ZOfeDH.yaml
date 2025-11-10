@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ZOfeDH
+  projectIdentifier: TestDataSourceRemoteEnvironment_ZOfeDH
+  identifier: TestDataSourceRemoteEnvironment_ZOfeDH
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ZOfeDH
+  type: PreProduction
