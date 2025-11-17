@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_AEV80T
+  projectIdentifier: TestDataSourceRemoteEnvironment_AEV80T
+  identifier: TestDataSourceRemoteEnvironment_AEV80T
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_AEV80T
+  type: PreProduction
