@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_F8LttJ
+  projectIdentifier: TestDataSourceRemoteEnvironment_F8LttJ
+  identifier: TestDataSourceRemoteEnvironment_F8LttJ
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_F8LttJ
+  type: PreProduction
