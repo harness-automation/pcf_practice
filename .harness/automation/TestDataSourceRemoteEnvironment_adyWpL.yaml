@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_adyWpL
+  projectIdentifier: TestDataSourceRemoteEnvironment_adyWpL
+  identifier: TestDataSourceRemoteEnvironment_adyWpL
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_adyWpL
+  type: PreProduction
