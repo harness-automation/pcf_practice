@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_NwiNLe
+  projectIdentifier: TestDataSourceRemoteEnvironment_NwiNLe
+  identifier: TestDataSourceRemoteEnvironment_NwiNLe
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_NwiNLe
+  type: PreProduction
