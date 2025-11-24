@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_SFXNFp
+  projectIdentifier: TestDataSourceRemoteEnvironment_SFXNFp
+  identifier: TestDataSourceRemoteEnvironment_SFXNFp
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_SFXNFp
+  type: PreProduction
