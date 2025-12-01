@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_OwOJXS
+  projectIdentifier: TestDataSourceRemoteEnvironment_OwOJXS
+  identifier: TestDataSourceRemoteEnvironment_OwOJXS
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_OwOJXS
+  type: PreProduction
