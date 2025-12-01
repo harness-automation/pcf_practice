@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_VTc5QM
+  projectIdentifier: TestDataSourceRemoteEnvironment_VTc5QM
+  identifier: TestDataSourceRemoteEnvironment_VTc5QM
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_VTc5QM
+  type: PreProduction
