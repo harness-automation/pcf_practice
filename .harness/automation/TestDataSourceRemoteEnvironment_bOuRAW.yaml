@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_bOuRAW
+  projectIdentifier: TestDataSourceRemoteEnvironment_bOuRAW
+  identifier: TestDataSourceRemoteEnvironment_bOuRAW
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_bOuRAW
+  type: PreProduction
