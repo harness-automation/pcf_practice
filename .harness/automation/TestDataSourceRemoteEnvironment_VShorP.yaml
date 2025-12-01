@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_VShorP
+  projectIdentifier: TestDataSourceRemoteEnvironment_VShorP
+  identifier: TestDataSourceRemoteEnvironment_VShorP
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_VShorP
+  type: PreProduction
