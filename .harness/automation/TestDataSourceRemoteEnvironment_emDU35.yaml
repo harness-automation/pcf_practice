@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_emDU35
+  projectIdentifier: TestDataSourceRemoteEnvironment_emDU35
+  identifier: TestDataSourceRemoteEnvironment_emDU35
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_emDU35
+  type: PreProduction
