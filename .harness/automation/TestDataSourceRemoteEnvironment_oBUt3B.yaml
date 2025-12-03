@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_oBUt3B
+  projectIdentifier: TestDataSourceRemoteEnvironment_oBUt3B
+  identifier: TestDataSourceRemoteEnvironment_oBUt3B
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_oBUt3B
+  type: PreProduction
