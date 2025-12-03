@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_1Itgid
+  projectIdentifier: TestDataSourceRemoteEnvironment_1Itgid
+  identifier: TestDataSourceRemoteEnvironment_1Itgid
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_1Itgid
+  type: PreProduction
