@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_QTUMCN
+  projectIdentifier: TestDataSourceRemoteEnvironment_QTUMCN
+  identifier: TestDataSourceRemoteEnvironment_QTUMCN
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_QTUMCN
+  type: PreProduction
