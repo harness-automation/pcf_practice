@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_GIayb2
+  projectIdentifier: TestDataSourceRemoteEnvironment_GIayb2
+  identifier: TestDataSourceRemoteEnvironment_GIayb2
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_GIayb2
+  type: PreProduction
