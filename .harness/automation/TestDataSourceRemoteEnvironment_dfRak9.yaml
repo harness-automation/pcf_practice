@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_dfRak9
+  projectIdentifier: TestDataSourceRemoteEnvironment_dfRak9
+  identifier: TestDataSourceRemoteEnvironment_dfRak9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_dfRak9
+  type: PreProduction
