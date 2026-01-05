@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_lAboI6
+  projectIdentifier: TestDataSourceRemoteEnvironment_lAboI6
+  identifier: TestDataSourceRemoteEnvironment_lAboI6
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_lAboI6
+  type: PreProduction
