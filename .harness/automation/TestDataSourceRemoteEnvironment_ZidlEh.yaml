@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ZidlEh
+  projectIdentifier: TestDataSourceRemoteEnvironment_ZidlEh
+  identifier: TestDataSourceRemoteEnvironment_ZidlEh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ZidlEh
+  type: PreProduction
