@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_kIOgaV
+  projectIdentifier: TestDataSourceRemoteEnvironment_kIOgaV
+  identifier: TestDataSourceRemoteEnvironment_kIOgaV
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_kIOgaV
+  type: PreProduction
