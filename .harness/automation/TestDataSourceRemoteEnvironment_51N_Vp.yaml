@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_51N_Vp
+  projectIdentifier: TestDataSourceRemoteEnvironment_51N_Vp
+  identifier: TestDataSourceRemoteEnvironment_51N_Vp
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_51N_Vp
+  type: PreProduction
