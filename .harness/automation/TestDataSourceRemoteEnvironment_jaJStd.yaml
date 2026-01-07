@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_jaJStd
+  projectIdentifier: TestDataSourceRemoteEnvironment_jaJStd
+  identifier: TestDataSourceRemoteEnvironment_jaJStd
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_jaJStd
+  type: PreProduction
