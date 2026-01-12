@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_m0LOXI
+  projectIdentifier: TestDataSourceRemoteEnvironment_m0LOXI
+  identifier: TestDataSourceRemoteEnvironment_m0LOXI
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_m0LOXI
+  type: PreProduction
