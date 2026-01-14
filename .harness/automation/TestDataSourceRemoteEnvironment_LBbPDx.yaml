@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_LBbPDx
+  projectIdentifier: TestDataSourceRemoteEnvironment_LBbPDx
+  identifier: TestDataSourceRemoteEnvironment_LBbPDx
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_LBbPDx
+  type: PreProduction
