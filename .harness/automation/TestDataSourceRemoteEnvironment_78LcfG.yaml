@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_78LcfG
+  projectIdentifier: TestDataSourceRemoteEnvironment_78LcfG
+  identifier: TestDataSourceRemoteEnvironment_78LcfG
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_78LcfG
+  type: PreProduction
