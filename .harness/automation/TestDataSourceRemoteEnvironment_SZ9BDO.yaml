@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_SZ9BDO
+  projectIdentifier: TestDataSourceRemoteEnvironment_SZ9BDO
+  identifier: TestDataSourceRemoteEnvironment_SZ9BDO
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_SZ9BDO
+  type: PreProduction
