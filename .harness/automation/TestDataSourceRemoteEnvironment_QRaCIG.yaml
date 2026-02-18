@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_QRaCIG
+  projectIdentifier: TestDataSourceRemoteEnvironment_QRaCIG
+  identifier: TestDataSourceRemoteEnvironment_QRaCIG
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_QRaCIG
+  type: PreProduction
