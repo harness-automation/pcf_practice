@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_rmO5fc
+  projectIdentifier: TestDataSourceRemoteEnvironment_rmO5fc
+  identifier: TestDataSourceRemoteEnvironment_rmO5fc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_rmO5fc
+  type: PreProduction
