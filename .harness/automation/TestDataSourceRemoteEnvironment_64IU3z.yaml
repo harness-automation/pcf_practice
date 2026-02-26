@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_64IU3z
+  projectIdentifier: TestDataSourceRemoteEnvironment_64IU3z
+  identifier: TestDataSourceRemoteEnvironment_64IU3z
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_64IU3z
+  type: PreProduction
