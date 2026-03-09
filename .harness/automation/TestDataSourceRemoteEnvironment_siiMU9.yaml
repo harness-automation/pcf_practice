@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_siiMU9
+  projectIdentifier: TestDataSourceRemoteEnvironment_siiMU9
+  identifier: TestDataSourceRemoteEnvironment_siiMU9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_siiMU9
+  type: PreProduction
