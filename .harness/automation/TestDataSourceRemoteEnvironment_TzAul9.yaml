@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TzAul9
+  projectIdentifier: TestDataSourceRemoteEnvironment_TzAul9
+  identifier: TestDataSourceRemoteEnvironment_TzAul9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TzAul9
+  type: PreProduction
