@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_G9Rpp0
+  projectIdentifier: TestDataSourceRemoteEnvironment_G9Rpp0
+  identifier: TestDataSourceRemoteEnvironment_G9Rpp0
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_G9Rpp0
+  type: PreProduction
