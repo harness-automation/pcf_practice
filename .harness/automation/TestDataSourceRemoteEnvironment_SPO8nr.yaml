@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_SPO8nr
+  projectIdentifier: TestDataSourceRemoteEnvironment_SPO8nr
+  identifier: TestDataSourceRemoteEnvironment_SPO8nr
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_SPO8nr
+  type: PreProduction
