@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PklhNc
+  projectIdentifier: TestDataSourceRemoteEnvironment_PklhNc
+  identifier: TestDataSourceRemoteEnvironment_PklhNc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PklhNc
+  type: PreProduction
