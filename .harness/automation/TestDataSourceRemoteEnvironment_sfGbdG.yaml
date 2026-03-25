@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_sfGbdG
+  projectIdentifier: TestDataSourceRemoteEnvironment_sfGbdG
+  identifier: TestDataSourceRemoteEnvironment_sfGbdG
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_sfGbdG
+  type: PreProduction
