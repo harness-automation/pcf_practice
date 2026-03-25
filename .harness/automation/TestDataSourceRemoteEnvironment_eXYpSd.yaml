@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eXYpSd
+  projectIdentifier: TestDataSourceRemoteEnvironment_eXYpSd
+  identifier: TestDataSourceRemoteEnvironment_eXYpSd
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eXYpSd
+  type: PreProduction
