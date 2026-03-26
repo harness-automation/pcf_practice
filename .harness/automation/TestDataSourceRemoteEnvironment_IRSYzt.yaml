@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_IRSYzt
+  projectIdentifier: TestDataSourceRemoteEnvironment_IRSYzt
+  identifier: TestDataSourceRemoteEnvironment_IRSYzt
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_IRSYzt
+  type: PreProduction
