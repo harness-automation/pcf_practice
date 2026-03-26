@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_SEhDUP
+  projectIdentifier: TestDataSourceRemoteEnvironment_SEhDUP
+  identifier: TestDataSourceRemoteEnvironment_SEhDUP
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_SEhDUP
+  type: PreProduction
