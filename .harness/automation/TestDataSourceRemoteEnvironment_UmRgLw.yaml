@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_UmRgLw
+  projectIdentifier: TestDataSourceRemoteEnvironment_UmRgLw
+  identifier: TestDataSourceRemoteEnvironment_UmRgLw
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_UmRgLw
+  type: PreProduction
