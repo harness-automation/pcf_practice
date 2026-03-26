@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eFp8dA
+  projectIdentifier: TestDataSourceRemoteEnvironment_eFp8dA
+  identifier: TestDataSourceRemoteEnvironment_eFp8dA
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eFp8dA
+  type: PreProduction
