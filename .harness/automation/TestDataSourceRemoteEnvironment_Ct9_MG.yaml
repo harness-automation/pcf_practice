@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Ct9_MG
+  projectIdentifier: TestDataSourceRemoteEnvironment_Ct9_MG
+  identifier: TestDataSourceRemoteEnvironment_Ct9_MG
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Ct9_MG
+  type: PreProduction
