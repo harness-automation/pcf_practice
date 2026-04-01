@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ugYDOm
+  projectIdentifier: TestDataSourceRemoteEnvironment_ugYDOm
+  identifier: TestDataSourceRemoteEnvironment_ugYDOm
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ugYDOm
+  type: PreProduction
