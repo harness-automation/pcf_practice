@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JkauEa
+  projectIdentifier: TestDataSourceRemoteEnvironment_JkauEa
+  identifier: TestDataSourceRemoteEnvironment_JkauEa
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JkauEa
+  type: PreProduction
