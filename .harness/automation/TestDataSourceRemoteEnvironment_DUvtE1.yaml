@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_DUvtE1
+  projectIdentifier: TestDataSourceRemoteEnvironment_DUvtE1
+  identifier: TestDataSourceRemoteEnvironment_DUvtE1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_DUvtE1
+  type: PreProduction
