@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ADmKrK
+  projectIdentifier: TestDataSourceRemoteEnvironment_ADmKrK
+  identifier: TestDataSourceRemoteEnvironment_ADmKrK
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ADmKrK
+  type: PreProduction
