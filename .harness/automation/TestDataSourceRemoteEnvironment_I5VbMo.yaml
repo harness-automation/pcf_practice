@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_I5VbMo
+  projectIdentifier: TestDataSourceRemoteEnvironment_I5VbMo
+  identifier: TestDataSourceRemoteEnvironment_I5VbMo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_I5VbMo
+  type: PreProduction
