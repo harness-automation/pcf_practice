@@ -1,0 +1,4 @@
+environment:
+  name: TestResourceRemoteEnvironment
+  identifier: TestResourceRemoteEnvironment_OT7G1
+  type: PreProduction
