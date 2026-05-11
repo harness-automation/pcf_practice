@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_soUrxT
+  projectIdentifier: TestDataSourceRemoteEnvironment_soUrxT
+  identifier: TestDataSourceRemoteEnvironment_soUrxT
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_soUrxT
+  type: PreProduction
