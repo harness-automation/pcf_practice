@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JdIbma
+  projectIdentifier: TestDataSourceRemoteEnvironment_JdIbma
+  identifier: TestDataSourceRemoteEnvironment_JdIbma
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JdIbma
+  type: PreProduction
