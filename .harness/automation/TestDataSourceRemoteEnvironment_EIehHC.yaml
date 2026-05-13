@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EIehHC
+  projectIdentifier: TestDataSourceRemoteEnvironment_EIehHC
+  identifier: TestDataSourceRemoteEnvironment_EIehHC
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EIehHC
+  type: PreProduction
