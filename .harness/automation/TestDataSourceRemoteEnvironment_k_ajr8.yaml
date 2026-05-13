@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_k_ajr8
+  projectIdentifier: TestDataSourceRemoteEnvironment_k_ajr8
+  identifier: TestDataSourceRemoteEnvironment_k_ajr8
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_k_ajr8
+  type: PreProduction
