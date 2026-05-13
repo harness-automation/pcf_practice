@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_W90mMb
+  projectIdentifier: TestDataSourceRemoteEnvironment_W90mMb
+  identifier: TestDataSourceRemoteEnvironment_W90mMb
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_W90mMb
+  type: PreProduction
