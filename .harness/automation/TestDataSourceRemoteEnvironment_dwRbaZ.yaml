@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_dwRbaZ
+  projectIdentifier: TestDataSourceRemoteEnvironment_dwRbaZ
+  identifier: TestDataSourceRemoteEnvironment_dwRbaZ
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_dwRbaZ
+  type: PreProduction
