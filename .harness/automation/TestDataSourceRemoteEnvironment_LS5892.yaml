@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_LS5892
+  projectIdentifier: TestDataSourceRemoteEnvironment_LS5892
+  identifier: TestDataSourceRemoteEnvironment_LS5892
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_LS5892
+  type: PreProduction
