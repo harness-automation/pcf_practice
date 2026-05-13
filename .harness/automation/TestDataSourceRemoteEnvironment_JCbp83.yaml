@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JCbp83
+  projectIdentifier: TestDataSourceRemoteEnvironment_JCbp83
+  identifier: TestDataSourceRemoteEnvironment_JCbp83
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JCbp83
+  type: PreProduction
