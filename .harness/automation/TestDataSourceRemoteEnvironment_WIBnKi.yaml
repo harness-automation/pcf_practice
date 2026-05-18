@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_WIBnKi
+  projectIdentifier: TestDataSourceRemoteEnvironment_WIBnKi
+  identifier: TestDataSourceRemoteEnvironment_WIBnKi
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_WIBnKi
+  type: PreProduction
