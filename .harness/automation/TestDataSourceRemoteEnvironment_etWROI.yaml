@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_etWROI
+  projectIdentifier: TestDataSourceRemoteEnvironment_etWROI
+  identifier: TestDataSourceRemoteEnvironment_etWROI
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_etWROI
+  type: PreProduction
