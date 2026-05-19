@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_7S8mO1
+  projectIdentifier: TestDataSourceRemoteEnvironment_7S8mO1
+  identifier: TestDataSourceRemoteEnvironment_7S8mO1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_7S8mO1
+  type: PreProduction
