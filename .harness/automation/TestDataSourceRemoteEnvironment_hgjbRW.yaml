@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_hgjbRW
+  projectIdentifier: TestDataSourceRemoteEnvironment_hgjbRW
+  identifier: TestDataSourceRemoteEnvironment_hgjbRW
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_hgjbRW
+  type: PreProduction
