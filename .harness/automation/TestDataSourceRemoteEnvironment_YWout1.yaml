@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_YWout1
+  projectIdentifier: TestDataSourceRemoteEnvironment_YWout1
+  identifier: TestDataSourceRemoteEnvironment_YWout1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_YWout1
+  type: PreProduction
