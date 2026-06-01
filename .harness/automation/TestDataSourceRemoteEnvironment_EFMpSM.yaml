@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EFMpSM
+  projectIdentifier: TestDataSourceRemoteEnvironment_EFMpSM
+  identifier: TestDataSourceRemoteEnvironment_EFMpSM
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EFMpSM
+  type: PreProduction
