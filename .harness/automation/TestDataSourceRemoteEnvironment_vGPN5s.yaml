@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_vGPN5s
+  projectIdentifier: TestDataSourceRemoteEnvironment_vGPN5s
+  identifier: TestDataSourceRemoteEnvironment_vGPN5s
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_vGPN5s
+  type: PreProduction
