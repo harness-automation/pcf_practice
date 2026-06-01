@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eGy_4o
+  projectIdentifier: TestDataSourceRemoteEnvironment_eGy_4o
+  identifier: TestDataSourceRemoteEnvironment_eGy_4o
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eGy_4o
+  type: PreProduction
