@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_4dTi_L
+  projectIdentifier: TestDataSourceRemoteEnvironment_4dTi_L
+  identifier: TestDataSourceRemoteEnvironment_4dTi_L
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_4dTi_L
+  type: PreProduction
