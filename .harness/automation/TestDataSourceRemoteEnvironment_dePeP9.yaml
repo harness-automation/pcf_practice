@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_dePeP9
+  projectIdentifier: TestDataSourceRemoteEnvironment_dePeP9
+  identifier: TestDataSourceRemoteEnvironment_dePeP9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_dePeP9
+  type: PreProduction
