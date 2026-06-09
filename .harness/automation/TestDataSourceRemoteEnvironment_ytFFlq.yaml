@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ytFFlq
+  projectIdentifier: TestDataSourceRemoteEnvironment_ytFFlq
+  identifier: TestDataSourceRemoteEnvironment_ytFFlq
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ytFFlq
+  type: PreProduction
