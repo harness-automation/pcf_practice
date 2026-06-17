@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_CKlcVC
+  projectIdentifier: TestDataSourceRemoteEnvironment_CKlcVC
+  identifier: TestDataSourceRemoteEnvironment_CKlcVC
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_CKlcVC
+  type: PreProduction
