@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Cptnfm
+  projectIdentifier: TestDataSourceRemoteEnvironment_Cptnfm
+  identifier: TestDataSourceRemoteEnvironment_Cptnfm
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Cptnfm
+  type: PreProduction
