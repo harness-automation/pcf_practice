@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_xDRRRl
+  projectIdentifier: TestDataSourceRemoteEnvironment_xDRRRl
+  identifier: TestDataSourceRemoteEnvironment_xDRRRl
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_xDRRRl
+  type: PreProduction
