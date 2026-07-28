@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_gX37X2
+  projectIdentifier: TestDataSourceRemoteEnvironment_gX37X2
+  identifier: TestDataSourceRemoteEnvironment_gX37X2
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_gX37X2
+  type: PreProduction
