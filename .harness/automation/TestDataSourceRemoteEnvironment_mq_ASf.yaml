@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_mq_ASf
+  projectIdentifier: TestDataSourceRemoteEnvironment_mq_ASf
+  identifier: TestDataSourceRemoteEnvironment_mq_ASf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_mq_ASf
+  type: PreProduction
