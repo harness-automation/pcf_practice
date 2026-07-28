@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_KQrvKS
+  projectIdentifier: TestDataSourceRemoteEnvironment_KQrvKS
+  identifier: TestDataSourceRemoteEnvironment_KQrvKS
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_KQrvKS
+  type: PreProduction
