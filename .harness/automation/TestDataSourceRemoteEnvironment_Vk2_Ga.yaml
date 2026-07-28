@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Vk2_Ga
+  projectIdentifier: TestDataSourceRemoteEnvironment_Vk2_Ga
+  identifier: TestDataSourceRemoteEnvironment_Vk2_Ga
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Vk2_Ga
+  type: PreProduction
