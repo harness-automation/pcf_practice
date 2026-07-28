@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TrYfii
+  projectIdentifier: TestDataSourceRemoteEnvironment_TrYfii
+  identifier: TestDataSourceRemoteEnvironment_TrYfii
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TrYfii
+  type: PreProduction
