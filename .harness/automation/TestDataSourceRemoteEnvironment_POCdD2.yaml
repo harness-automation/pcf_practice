@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_POCdD2
+  projectIdentifier: TestDataSourceRemoteEnvironment_POCdD2
+  identifier: TestDataSourceRemoteEnvironment_POCdD2
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_POCdD2
+  type: PreProduction
