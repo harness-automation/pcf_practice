@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_NYr52B
+  projectIdentifier: TestDataSourceRemoteEnvironment_NYr52B
+  identifier: TestDataSourceRemoteEnvironment_NYr52B
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_NYr52B
+  type: PreProduction
