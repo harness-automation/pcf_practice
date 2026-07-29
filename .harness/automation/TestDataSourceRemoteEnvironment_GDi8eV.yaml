@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_GDi8eV
+  projectIdentifier: TestDataSourceRemoteEnvironment_GDi8eV
+  identifier: TestDataSourceRemoteEnvironment_GDi8eV
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_GDi8eV
+  type: PreProduction
