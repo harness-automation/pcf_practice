@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_idoHSn
+  projectIdentifier: TestDataSourceRemoteEnvironment_idoHSn
+  identifier: TestDataSourceRemoteEnvironment_idoHSn
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_idoHSn
+  type: PreProduction
