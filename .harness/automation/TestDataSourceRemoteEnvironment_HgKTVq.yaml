@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_HgKTVq
+  projectIdentifier: TestDataSourceRemoteEnvironment_HgKTVq
+  identifier: TestDataSourceRemoteEnvironment_HgKTVq
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_HgKTVq
+  type: PreProduction
