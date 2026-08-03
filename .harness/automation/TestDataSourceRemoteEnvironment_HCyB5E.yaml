@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_HCyB5E
+  projectIdentifier: TestDataSourceRemoteEnvironment_HCyB5E
+  identifier: TestDataSourceRemoteEnvironment_HCyB5E
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_HCyB5E
+  type: PreProduction
