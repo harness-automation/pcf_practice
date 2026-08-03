@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_s3RZ13
+  projectIdentifier: TestDataSourceRemoteEnvironment_s3RZ13
+  identifier: TestDataSourceRemoteEnvironment_s3RZ13
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_s3RZ13
+  type: PreProduction
