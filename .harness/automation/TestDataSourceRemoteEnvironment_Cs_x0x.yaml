@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Cs_x0x
+  projectIdentifier: TestDataSourceRemoteEnvironment_Cs_x0x
+  identifier: TestDataSourceRemoteEnvironment_Cs_x0x
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Cs_x0x
+  type: PreProduction
