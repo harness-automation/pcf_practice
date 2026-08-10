@@ -1,0 +1,14 @@
+infrastructureDefinition:
+   name: "TestResourceRemoteInfrastructure"
+   identifier: "TestResourceRemoteInfrastructure_Sv3ww"
+   description: ""
+   tags:
+     asda: ""
+   environmentRef: TestResourceRemoteInfrastructure_Sv3ww
+   deploymentType: Kubernetes
+   type: KubernetesDirect
+   spec:
+    connectorRef: "<+input>"
+    namespace: "<+input>"
+    releaseName: "<+input>"
+   allowSimultaneousDeployments: false
