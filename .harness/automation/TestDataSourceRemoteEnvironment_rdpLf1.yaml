@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_rdpLf1
+  projectIdentifier: TestDataSourceRemoteEnvironment_rdpLf1
+  identifier: TestDataSourceRemoteEnvironment_rdpLf1
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_rdpLf1
+  type: PreProduction
