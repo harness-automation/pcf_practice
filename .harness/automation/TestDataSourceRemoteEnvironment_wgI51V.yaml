@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_wgI51V
+  projectIdentifier: TestDataSourceRemoteEnvironment_wgI51V
+  identifier: TestDataSourceRemoteEnvironment_wgI51V
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_wgI51V
+  type: PreProduction
