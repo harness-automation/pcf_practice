@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_30VDYG
+  projectIdentifier: TestDataSourceRemoteEnvironment_30VDYG
+  identifier: TestDataSourceRemoteEnvironment_30VDYG
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_30VDYG
+  type: PreProduction
