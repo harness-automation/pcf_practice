@@ -1,0 +1,14 @@
+infrastructureDefinition:
+   name: "TestResourceRemoteInfrastructure"
+   identifier: "TestResourceRemoteInfrastructure_R5eXJ"
+   description: ""
+   tags:
+     asda: ""
+   environmentRef: TestResourceRemoteInfrastructure_R5eXJ
+   deploymentType: Kubernetes
+   type: KubernetesDirect
+   spec:
+    connectorRef: "<+input>"
+    namespace: "<+input>"
+    releaseName: "<+input>"
+   allowSimultaneousDeployments: false
