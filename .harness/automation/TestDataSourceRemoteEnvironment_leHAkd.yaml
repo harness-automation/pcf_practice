@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_leHAkd
+  projectIdentifier: TestDataSourceRemoteEnvironment_leHAkd
+  identifier: TestDataSourceRemoteEnvironment_leHAkd
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_leHAkd
+  type: PreProduction
