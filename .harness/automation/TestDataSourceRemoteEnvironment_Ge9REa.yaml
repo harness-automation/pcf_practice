@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Ge9REa
+  projectIdentifier: TestDataSourceRemoteEnvironment_Ge9REa
+  identifier: TestDataSourceRemoteEnvironment_Ge9REa
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Ge9REa
+  type: PreProduction
