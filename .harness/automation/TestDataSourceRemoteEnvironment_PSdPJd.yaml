@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PSdPJd
+  projectIdentifier: TestDataSourceRemoteEnvironment_PSdPJd
+  identifier: TestDataSourceRemoteEnvironment_PSdPJd
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PSdPJd
+  type: PreProduction
