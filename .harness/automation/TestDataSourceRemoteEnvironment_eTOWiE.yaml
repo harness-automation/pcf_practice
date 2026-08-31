@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eTOWiE
+  projectIdentifier: TestDataSourceRemoteEnvironment_eTOWiE
+  identifier: TestDataSourceRemoteEnvironment_eTOWiE
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eTOWiE
+  type: PreProduction
