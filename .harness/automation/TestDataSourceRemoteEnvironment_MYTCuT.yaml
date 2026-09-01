@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_MYTCuT
+  projectIdentifier: TestDataSourceRemoteEnvironment_MYTCuT
+  identifier: TestDataSourceRemoteEnvironment_MYTCuT
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_MYTCuT
+  type: PreProduction
