@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_gLoE3t
+  projectIdentifier: TestDataSourceRemoteEnvironment_gLoE3t
+  identifier: TestDataSourceRemoteEnvironment_gLoE3t
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_gLoE3t
+  type: PreProduction
