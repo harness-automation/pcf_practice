@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_iRbPSB
+  projectIdentifier: TestDataSourceRemoteEnvironment_iRbPSB
+  identifier: TestDataSourceRemoteEnvironment_iRbPSB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_iRbPSB
+  type: PreProduction
