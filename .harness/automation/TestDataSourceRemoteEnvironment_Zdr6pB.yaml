@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Zdr6pB
+  projectIdentifier: TestDataSourceRemoteEnvironment_Zdr6pB
+  identifier: TestDataSourceRemoteEnvironment_Zdr6pB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Zdr6pB
+  type: PreProduction
