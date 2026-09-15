@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_XK3rPX
+  projectIdentifier: TestDataSourceRemoteEnvironment_XK3rPX
+  identifier: TestDataSourceRemoteEnvironment_XK3rPX
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_XK3rPX
+  type: PreProduction
