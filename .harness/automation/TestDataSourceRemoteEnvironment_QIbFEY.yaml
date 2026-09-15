@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_QIbFEY
+  projectIdentifier: TestDataSourceRemoteEnvironment_QIbFEY
+  identifier: TestDataSourceRemoteEnvironment_QIbFEY
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_QIbFEY
+  type: PreProduction
