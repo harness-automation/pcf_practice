@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ySRWy3
+  projectIdentifier: TestDataSourceRemoteEnvironment_ySRWy3
+  identifier: TestDataSourceRemoteEnvironment_ySRWy3
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ySRWy3
+  type: PreProduction
