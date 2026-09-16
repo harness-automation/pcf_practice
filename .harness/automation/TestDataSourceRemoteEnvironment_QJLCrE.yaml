@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_QJLCrE
+  projectIdentifier: TestDataSourceRemoteEnvironment_QJLCrE
+  identifier: TestDataSourceRemoteEnvironment_QJLCrE
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_QJLCrE
+  type: PreProduction
