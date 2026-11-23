@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_3XErSa
+  projectIdentifier: TestDataSourceRemoteEnvironment_3XErSa
+  identifier: TestDataSourceRemoteEnvironment_3XErSa
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_3XErSa
+  type: PreProduction
