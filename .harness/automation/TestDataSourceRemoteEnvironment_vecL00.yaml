@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_vecL00
+  projectIdentifier: TestDataSourceRemoteEnvironment_vecL00
+  identifier: TestDataSourceRemoteEnvironment_vecL00
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_vecL00
+  type: PreProduction
